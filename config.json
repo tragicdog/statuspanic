@@ -22,8 +22,8 @@
       "width": 980,
       "update": 3600,
       "args": {
-        "event": "UNTIL SOMETHING",
-        "stop": 1274706000,
+        "event": "my time at Compass is done",
+        "stop": 1450983600,
         "timezone": "America/Los_Angeles"
       }
     },
