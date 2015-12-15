@@ -24,7 +24,7 @@
       "args": {
         "event": "UNTIL SOMETHING",
         "stop": 1274706000,
-        "timezone": "America/Los_Angeles"
+        "timezone": "America/Chicago"
       }
     },
     {
@@ -44,7 +44,7 @@
       "height": 120,
       "update": 60,
       "args": {
-        "timezone": "America/Los_Angeles",
+        "timezone": "America/Chicago",
         "format": "h:i a"
       }
     },
