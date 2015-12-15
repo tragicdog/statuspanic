@@ -1,4 +1,4 @@
 <div class='jumbo'>
-    Created by <a href='http://allynbauer.com'>Allyn Bauer</a><br />
-    Get it at <a href='http://github.com/ajb/statuspanic'>GitHub</a>
+    Created by <a href='http://jonlillie.com'>Jon Lillie</a><br />
+    Get it at <a href='http://github.com/tragicdog/statuspanic'>GitHub</a>
 </div>
